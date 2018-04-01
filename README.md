@@ -1,2 +1,4 @@
 # snskysk-jupyter.github.io
-no contents
+WORD形式のレジュメは
+過去のインターンでのpython操作例は
+となっております
