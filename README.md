@@ -1,2 +1,2 @@
-# snskysk-n2.github.io
+# snskysk-jupyter.github.io
 no contents
