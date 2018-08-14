@@ -1,4 +1,3 @@
-# snskysk-jupyter.github.io
-DTラボ株式会社様
-レジュメはWORD形式で、本リポジトリ内のファイル「インターンシップ応募に関するレジュメ.docx」に記載しております。
-ご参考までに、過去のインターンシップにおけるpython操作例もございますのでご覧ください。
+# snskysk-jupyter.github.i
+過去のインターンシップにおけるpython操作記録
+。
